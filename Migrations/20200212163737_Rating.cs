@@ -6,6 +6,7 @@ namespace MvcMovie.Migrations
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            //comment
             migrationBuilder.AlterColumn<decimal>(
                 name: "Price",
                 table: "Movie",
